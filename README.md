@@ -14,3 +14,5 @@ Hello,
   Big thanks to Kyrasis for sharing this with me too!
 
 ![image](https://github.com/user-attachments/assets/33f0d025-73e8-46f0-b3df-a3eeddf0e384)
+
+  You can export the output to excel sheets aswell!
