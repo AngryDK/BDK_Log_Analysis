@@ -12,3 +12,5 @@ Hello,
 
   Also, big shout out to Biceppumps for creating the original version of this script. Without his code I wouldn't have been able to create this.
   Big thanks to Kyrasis for sharing this with me too!
+
+![image](https://github.com/user-attachments/assets/33f0d025-73e8-46f0-b3df-a3eeddf0e384)
