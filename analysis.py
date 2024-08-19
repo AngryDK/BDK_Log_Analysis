@@ -333,7 +333,10 @@ def check_deathstrike(end_time, deathstrike_data, bloodshield_data, player_stam,
         hp_per_after = round(info['hitPoints'] / info['maxHitPoints'] *100, 1)
         per_healed = round(hp_per_after - hp_per_before,1)
         overhealing = round(info['overheal'] / info['maxHitPoints'] *100, 1)
-        # Check to see if bloodshield is new or refreshed - not currently in DF
+        '''
+        - This function is turned off as it wasn't requested in this version of the script but used later. Feel free to use it as you want.
+        '''
+        # Check to see if bloodshield is new or refreshed 
         # if bloodshield_data[index]['type'] == "applybuff":
         #     buff_type = "Apply"
         # if bloodshield_data[index]['type'] == "refreshbuff":
